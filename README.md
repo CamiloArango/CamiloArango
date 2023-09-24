@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camiloarango&label=Profile%20views&color=0e75b6&style=flat" alt="camiloarango" /> </p>
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **Docker, Odoo**
 
 - 👨‍💻 All of my projects are available at [https://camiloarango.github.io/Portfolio/](https://camiloarango.github.io/Portfolio/)
 
