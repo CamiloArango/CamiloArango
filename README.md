@@ -2,3 +2,4 @@
 
 
 ![Top Langs](https://github-readme-stats-camiloarangos-projects.vercel.app/api/top-langs/?username=CamiloArango&layout=donut-vertical&theme=dark)
+![Readme Card](https://github-readme-stats-camiloarangos-projects.vercel.app/api/pin/?username=CamiloArango&repo=remudi)
