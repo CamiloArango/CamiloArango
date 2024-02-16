@@ -4,7 +4,7 @@
 </p>
 
 <!-- Container for the two GitHub stats cards below -->
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap;">
   <!-- GitHub stats card 1 -->
   <div style="flex: 1;">
     <img src="https://github-readme-stats-camiloarangos-projects.vercel.app/api/top-langs/?username=CamiloArango&layout=compact&theme=dark" alt="Top Langs">
