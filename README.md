@@ -6,24 +6,12 @@ const camilo = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "PostgreSQL"],
   tools: ["React", "Git", "Docker"],
   age: 20,
-  aboutMe: () => `Hi, I'm Camilo, a ${camilo.age}-year-old Full Stack Developer!`,
+  aboutMe: "Hi, I'm Camilo, a 20-year-old Full Stack Developer!",
   interests: ["Automation", "Machine Learning", "Artificial Intelligence", "Web Development"],
-  connect: platform => {
-    const availablePlatforms = ["GitHub", "LinkedIn", "Twitter"];
-    if (availablePlatforms.includes(platform)) {
-      return `Connect with me on ${platform}: @CamiloArango`;
-    } else {
-      return `Sorry, I'm not available on ${platform} right now.`;
+  codeForever: function() {
+    while (true) {
+      this.code();
     }
-  }
+  },
 };
-
-// Print Camilo's introduction
-console.log(camilo.aboutMe());
-
-// Connect with Camilo on GitHub
-console.log(camilo.connect("GitHub"));
-
-
-
 ```
