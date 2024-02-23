@@ -1,1 +1,1 @@
-![Header](./camiloarango.png)
+![Header](./)
