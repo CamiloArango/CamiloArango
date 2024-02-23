@@ -1,3 +1,5 @@
+![GitHub Header Image](https://github.com/CamiloArango/CamiloArango/blob/main/github-header-image%20(1).png?raw=true)
+
 <!-- Center the first GitHub stats card -->
 <p align="center">
   <img src="https://github-readme-stats-camiloarangos-projects.vercel.app/api?username=CamiloArango&show_icons=true&theme=dark" alt="Camilos's GitHub stats">
